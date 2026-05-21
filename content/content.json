@@ -269,6 +269,102 @@
     "label": "What I've built",
     "items": [
       {
+        "title": "Sidenote",
+        "startDate": "2026",
+        "description": "Sidenote is a passion project I designed and built from scratch — a Chrome extension that turns the browser side panel into an AI-powered reading assistant for articles, PDFs, research papers and uploaded documents. It summarises any page in seconds at three depths — a quick TL;DR, a standard overview, or a structured deep-read — and lets you chat with the document, where every answer is backed by numbered citations that scroll to and highlight the exact source passage when clicked. An Explain Simply tool rewrites dense, jargon-heavy passages at a chosen reading level without losing accuracy, and an automatically generated glossary defines every key term and links back to where it first appears on the page. Built as a pnpm monorepo, Sidenote pairs a Vite and React 19 Manifest V3 extension with a Next.js 16 backend deployed on Vercel, backed by Supabase (Postgres with pgvector) for storage and authentication, Anthropic's Claude models for generation, and Voyage AI embeddings for citation retrieval. It ships with passwordless magic-link sign-in, Stripe billing and a free tier.",
+        "theme": {
+          "text": "light",
+          "border": "light",
+          "background": "dark"
+        },
+        "thumbnail": "ph:sidebar",
+        "images": [
+          {
+            "url": "/static/images/projects/sidenote/01-summarise.png",
+            "alt": "Sidenote summarising a Wikipedia article in the browser side panel",
+            "size": {
+              "width": 1280,
+              "height": 800
+            }
+          },
+          {
+            "url": "/static/images/projects/sidenote/02-chat-with-citations.png",
+            "alt": "Sidenote answering a question with numbered citations linking to the source passage",
+            "size": {
+              "width": 1280,
+              "height": 800
+            }
+          },
+          {
+            "url": "/static/images/projects/sidenote/03-explain-simply.png",
+            "alt": "Sidenote rewriting a passage in plain language at a chosen reading level",
+            "size": {
+              "width": 1280,
+              "height": 800
+            }
+          },
+          {
+            "url": "/static/images/projects/sidenote/04-glossary.png",
+            "alt": "Sidenote's automatically generated glossary of key terms from a document",
+            "size": {
+              "width": 1280,
+              "height": 800
+            }
+          },
+          {
+            "url": "/static/images/projects/sidenote/05-pin-and-go.png",
+            "alt": "The Sidenote extension pinned to the Chrome toolbar with passwordless sign-in",
+            "size": {
+              "width": 1280,
+              "height": 800
+            }
+          }
+        ],
+        "url": "https://getsidenote.app",
+        "technologies": [
+          {
+            "class": "devicon:nextjs",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon:react",
+            "name": "React"
+          },
+          {
+            "class": "devicon:typescript",
+            "name": "TypeScript"
+          },
+          {
+            "class": "logos:claude-icon",
+            "name": "Anthropic Claude"
+          },
+          {
+            "class": "devicon:tailwindcss",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon:vitejs",
+            "name": "Vite"
+          },
+          {
+            "class": "logos:chrome",
+            "name": "Chrome Extension"
+          },
+          {
+            "class": "logos:supabase-icon",
+            "name": "Supabase"
+          },
+          {
+            "class": "devicon:postgresql",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "logos:stripe",
+            "name": "Stripe"
+          }
+        ]
+      },
+      {
         "title": "Smiley Pets",
         "startDate": "2026",
         "description": "Smiley Pets is a professional pet care website I designed and built from scratch for a local business established in 2010. The site showcases their dog walking and pet sitting services, highlights their credentials — fully insured, DBS checked, and Canine First Aid certified — and builds trust through client testimonials and a photo gallery of happy pets in their care. Key features include a pet photo film strip, a full gallery, a contact and booking section, and social media integration. Built with Next.js, React, TypeScript and Tailwind CSS, and deployed on Vercel.",
