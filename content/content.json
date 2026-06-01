@@ -101,12 +101,12 @@
       }
     },
     "cv": {
-      "download": "Lewis_Hadden_CV.pdf"
+      "download": "Lewis Hadden - Senior Full Stack Engineer.pdf"
     },
     "cta": {
       "primary": {
         "text": "Download CV",
-        "url": "/static/documents/Lewis_Hadden_CV.pdf",
+        "url": "/static/documents/Lewis Hadden - Senior Full Stack Engineer.pdf",
         "icon": "mdi:download",
         "ariaLabel": "Download CV as PDF"
       },
