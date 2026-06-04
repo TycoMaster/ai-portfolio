@@ -280,7 +280,7 @@
         "thumbnail": "ph:sidebar",
         "images": [
           {
-            "url": "/static/images/projects/sidenote/01-summarise.png",
+            "url": "/static/images/projects/sidenote/01-summarise.avif",
             "alt": "Sidenote summarising a Wikipedia article in the browser side panel",
             "size": {
               "width": 1280,
@@ -288,7 +288,7 @@
             }
           },
           {
-            "url": "/static/images/projects/sidenote/02-chat-with-citations.png",
+            "url": "/static/images/projects/sidenote/02-chat-with-citations.avif",
             "alt": "Sidenote answering a question with numbered citations linking to the source passage",
             "size": {
               "width": 1280,
@@ -296,7 +296,7 @@
             }
           },
           {
-            "url": "/static/images/projects/sidenote/03-explain-simply.png",
+            "url": "/static/images/projects/sidenote/03-explain-simply.avif",
             "alt": "Sidenote rewriting a passage in plain language at a chosen reading level",
             "size": {
               "width": 1280,
@@ -304,7 +304,7 @@
             }
           },
           {
-            "url": "/static/images/projects/sidenote/04-glossary.png",
+            "url": "/static/images/projects/sidenote/04-glossary.avif",
             "alt": "Sidenote's automatically generated glossary of key terms from a document",
             "size": {
               "width": 1280,
@@ -312,7 +312,7 @@
             }
           },
           {
-            "url": "/static/images/projects/sidenote/05-pin-and-go.png",
+            "url": "/static/images/projects/sidenote/05-pin-and-go.avif",
             "alt": "The Sidenote extension pinned to the Chrome toolbar with passwordless sign-in",
             "size": {
               "width": 1280,
@@ -365,6 +365,130 @@
         ]
       },
       {
+        "title": "Drive King",
+        "startDate": "2026",
+        "description": "Drive King is a driving school website I designed and built from scratch for Drive King Driving School, run by DVSA Approved Driving Instructor (ADI) Janine Hayes in Caddington, covering Bedfordshire and Hertfordshire. The site introduces the instructor and her car, showcases a Hall of Fame of students who have passed, and pulls in live five-star Google reviews through the Google Places API. An interactive Leaflet map lets visitors explore every town and village covered, with dedicated per-area pages detailing local routes and the nearest test centres, alongside SEO-friendly learner guides, transparent lesson pricing, an FAQ, and a contact form that delivers enquiries by email via Resend. Built with Next.js (App Router), React 19, TypeScript and Tailwind CSS v4, the entire site is editable through TinaCMS — all copy lives in structured content and images are served from Vercel Blob storage — and it is deployed on Vercel with Vercel Analytics, a generated XML sitemap and per-page metadata for SEO.",
+        "theme": {
+          "text": "light",
+          "border": "light",
+          "background": "dark"
+        },
+        "thumbnail": "mdi:steering",
+        "images": [
+          {
+            "url": "/static/images/projects/drive-king/poster.avif",
+            "alt": "Drive King driving school promotional poster",
+            "size": {
+              "width": 3024,
+              "height": 1928
+            }
+          },
+          {
+            "url": "/static/images/projects/drive-king/home.avif",
+            "alt": "Drive King driving school home page",
+            "size": {
+              "width": 3024,
+              "height": 8206
+            }
+          },
+          {
+            "url": "/static/images/projects/drive-king/about.avif",
+            "alt": "About Janine Hayes, the Drive King driving instructor",
+            "size": {
+              "width": 3024,
+              "height": 6592
+            }
+          },
+          {
+            "url": "/static/images/projects/drive-king/hall-of-fame.avif",
+            "alt": "Drive King Hall of Fame showcasing students who passed their driving test",
+            "size": {
+              "width": 3024,
+              "height": 11066
+            }
+          },
+          {
+            "url": "/static/images/projects/drive-king/areas.avif",
+            "alt": "Interactive map of the Bedfordshire and Hertfordshire areas Drive King covers",
+            "size": {
+              "width": 3024,
+              "height": 5558
+            }
+          },
+          {
+            "url": "/static/images/projects/drive-king/pricing.avif",
+            "alt": "Drive King driving lesson packages and pricing",
+            "size": {
+              "width": 3024,
+              "height": 4548
+            }
+          },
+          {
+            "url": "/static/images/projects/drive-king/guides.avif",
+            "alt": "Drive King learner driver guides",
+            "size": {
+              "width": 3024,
+              "height": 4758
+            }
+          },
+          {
+            "url": "/static/images/projects/drive-king/faq.avif",
+            "alt": "Drive King frequently asked questions",
+            "size": {
+              "width": 3024,
+              "height": 5200
+            }
+          },
+          {
+            "url": "/static/images/projects/drive-king/contact.avif",
+            "alt": "Drive King contact form",
+            "size": {
+              "width": 3024,
+              "height": 4406
+            }
+          }
+        ],
+        "url": "https://drive-king.co.uk",
+        "technologies": [
+          {
+            "class": "devicon:nextjs",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon:react",
+            "name": "React"
+          },
+          {
+            "class": "devicon:typescript",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon:tailwindcss",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "simple-icons:tina",
+            "name": "TinaCMS"
+          },
+          {
+            "class": "logos:leaflet",
+            "name": "Leaflet"
+          },
+          {
+            "class": "simple-icons:resend",
+            "name": "Resend"
+          },
+          {
+            "class": "logos:google-icon",
+            "name": "Google Places API"
+          },
+          {
+            "class": "devicon:vercel",
+            "name": "Vercel"
+          }
+        ]
+      },
+      {
         "title": "Smiley Pets",
         "startDate": "2026",
         "description": "Smiley Pets is a professional pet care website I designed and built from scratch for a local business established in 2010. The site showcases their dog walking and pet sitting services, highlights their credentials — fully insured, DBS checked, and Canine First Aid certified — and builds trust through client testimonials and a photo gallery of happy pets in their care. Key features include a pet photo film strip, a full gallery, a contact and booking section, and social media integration. Built with Next.js, React, TypeScript and Tailwind CSS, and deployed on Vercel.",
@@ -376,28 +500,28 @@
         "thumbnail": "mdi:paw",
         "images": [
           {
-            "url": "/static/images/projects/smiley-pets/smiley-pets_homepage.png",
+            "url": "/static/images/projects/smiley-pets/smiley-pets_homepage.avif",
             "size": {
               "width": 3024,
               "height": 1660
             }
           },
           {
-            "url": "/static/images/projects/smiley-pets/smiley-pets_film-strip.png",
+            "url": "/static/images/projects/smiley-pets/smiley-pets_film-strip.avif",
             "size": {
               "width": 3024,
               "height": 1418
             }
           },
           {
-            "url": "/static/images/projects/smiley-pets/smiley-pets_gallery.png",
+            "url": "/static/images/projects/smiley-pets/smiley-pets_gallery.avif",
             "size": {
               "width": 3024,
               "height": 1658
             }
           },
           {
-            "url": "/static/images/projects/smiley-pets/smiley-pets_contact.png",
+            "url": "/static/images/projects/smiley-pets/smiley-pets_contact.avif",
             "size": {
               "width": 3024,
               "height": 1656
@@ -440,14 +564,14 @@
         "thumbnail": "mdi:glass-cocktail",
         "images": [
           {
-            "url": "/static/images/projects/sip-happens/sip-happens_homepage.png",
+            "url": "/static/images/projects/sip-happens/sip-happens_homepage.avif",
             "size": {
               "width": 3024,
               "height": 1656
             }
           },
           {
-            "url": "/static/images/projects/sip-happens/sip-happens_globe.png",
+            "url": "/static/images/projects/sip-happens/sip-happens_globe.avif",
             "size": {
               "width": 3024,
               "height": 1658
@@ -490,14 +614,14 @@
         "thumbnail": "tdesign:money",
         "images": [
           {
-            "url": "/static/images/projects/run/home-page.png",
+            "url": "/static/images/projects/run/home-page.avif",
             "size": {
               "width": 3584,
               "height": 1956
             }
           },
           {
-            "url": "/static/images/projects/run/hero.png",
+            "url": "/static/images/projects/run/hero.avif",
             "size": {
               "width": 620,
               "height": 394
@@ -511,7 +635,7 @@
             }
           },
           {
-            "url": "/static/images/projects/run/login-screen.png",
+            "url": "/static/images/projects/run/login-screen.avif",
             "size": {
               "width": 3024,
               "height": 1638
@@ -550,7 +674,7 @@
         "thumbnail": "mdi:gavel",
         "images": [
           {
-            "url": "/static/images/projects/sanctions/login-screen.png",
+            "url": "/static/images/projects/sanctions/login-screen.avif",
             "size": {
               "width": 3024,
               "height": 1646
@@ -609,14 +733,14 @@
         "thumbnail": "fa-solid:tooth",
         "images": [
           {
-            "url": "/static/images/projects/oralieve/patient-samples-form.png",
+            "url": "/static/images/projects/oralieve/patient-samples-form.avif",
             "size": {
               "width": 3024,
               "height": 3882
             }
           },
           {
-            "url": "/static/images/projects/oralieve/free-shipping-notice.png",
+            "url": "/static/images/projects/oralieve/free-shipping-notice.avif",
             "size": {
               "width": 662,
               "height": 872
@@ -698,28 +822,28 @@
         "thumbnail": "simple-icons:googleforms",
         "images": [
           {
-            "url": "/static/images/projects/afb/BATD.png",
+            "url": "/static/images/projects/afb/BATD.avif",
             "size": {
               "width": 3592,
               "height": 3978
             }
           },
           {
-            "url": "/static/images/projects/afb/AU.png",
+            "url": "/static/images/projects/afb/AU.avif",
             "size": {
               "width": 3592,
               "height": 3034
             }
           },
           {
-            "url": "/static/images/projects/afb/RAC.png",
+            "url": "/static/images/projects/afb/RAC.avif",
             "size": {
               "width": 3592,
               "height": 3914
             }
           },
           {
-            "url": "/static/images/projects/afb/RYI.png",
+            "url": "/static/images/projects/afb/RYI.avif",
             "size": {
               "width": 3592,
               "height": 3438
@@ -754,21 +878,21 @@
         "thumbnail": "emojione-monotone:cookie",
         "images": [
           {
-            "url": "/static/images/projects/cookies/popup-small.png",
+            "url": "/static/images/projects/cookies/popup-small.avif",
             "size": {
               "width": 1198,
               "height": 906
             }
           },
           {
-            "url": "/static/images/projects/cookies/popup-banner.png",
+            "url": "/static/images/projects/cookies/popup-banner.avif",
             "size": {
               "width": 2294,
               "height": 1430
             }
           },
           {
-            "url": "/static/images/projects/cookies/side-nav.png",
+            "url": "/static/images/projects/cookies/side-nav.avif",
             "size": {
               "width": 2784,
               "height": 2014
@@ -798,14 +922,14 @@
         "thumbnail": "cbi:audi",
         "images": [
           {
-            "url": "/static/images/projects/spa/OSB.png",
+            "url": "/static/images/projects/spa/OSB.avif",
             "size": {
               "width": 3600,
               "height": 5364
             }
           },
           {
-            "url": "/static/images/projects/spa/PX.png",
+            "url": "/static/images/projects/spa/PX.avif",
             "size": {
               "width": 3600,
               "height": 2394
@@ -867,14 +991,14 @@
         "thumbnail": "solar:chart-bold",
         "images": [
           {
-            "url": "/static/images/projects/audex/homepage.png",
+            "url": "/static/images/projects/audex/homepage.avif",
             "size": {
               "width": 3600,
               "height": 1950
             }
           },
           {
-            "url": "/static/images/projects/audex/about.png",
+            "url": "/static/images/projects/audex/about.avif",
             "size": {
               "width": 3594,
               "height": 2012
