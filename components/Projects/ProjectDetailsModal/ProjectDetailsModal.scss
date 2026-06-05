@@ -97,8 +97,8 @@
     border-bottom: 1px solid var(--border-color);
     background: linear-gradient(
       135deg,
-      rgba(99, 102, 241, 0.05) 0%,
-      rgba(59, 130, 246, 0.05) 50%,
+      color-mix(in oklab, var(--gradient-start) 8%, transparent) 0%,
+      color-mix(in oklab, var(--gradient-mid) 8%, transparent) 50%,
       transparent 100%
     );
     border-radius: 24px 24px 0 0;

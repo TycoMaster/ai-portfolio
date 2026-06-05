@@ -81,35 +81,35 @@
 }
 
 /* =============================================================
-   Dark Theme (default) — "electric indigo" brand
+   Dark Theme (default) — "Ember" brand
    ============================================================= */
 [data-theme='dark'] {
-  --bg-primary: #020617;
-  --bg-secondary: #0f172a;
-  --bg-tertiary: #1e293b;
+  --bg-primary: #160d09;
+  --bg-secondary: #241510;
+  --bg-tertiary: #38221a;
   --text-primary: #fff;
   --text-secondary: #b0b0b0;
   --text-muted: #808080;
   --border-color: rgba(255, 255, 255, 0.1);
   --shadow: rgba(0, 0, 0, 0.7);
-  --card-bg: #0f172a;
-  --card-hover-bg: rgba(91, 66, 245, 0.1);
-  --accent-primary: #5b42f5;
-  --accent-secondary: #8f0039;
-  --bg-particle-color: hsl(220, 100%, 80%);
-  --orb-color-1: rgba(167, 139, 250, 0.25);
-  --orb-color-2: rgba(96, 165, 250, 0.22);
-  --orb-color-3: rgba(52, 211, 153, 0.18);
-  --dot-grid-color: rgba(255, 255, 255, 0.035);
-  --gradient-start: #a78bfa;
-  --gradient-mid: #60a5fa;
-  --gradient-end: #34d399;
-  --gradient-shadow: rgba(96, 165, 250, 0.18);
+  --card-bg: #241510;
+  --card-hover-bg: rgba(249, 115, 22, 0.1);
+  --accent-primary: #f97316;
+  --accent-secondary: #be123c;
+  --bg-particle-color: hsl(28, 100%, 72%);
+  --orb-color-1: rgba(251, 191, 36, 0.22);
+  --orb-color-2: rgba(249, 115, 22, 0.18);
+  --orb-color-3: rgba(244, 63, 94, 0.16);
+  --dot-grid-color: rgba(255, 200, 150, 0.045);
+  --gradient-start: #fbbf24;
+  --gradient-mid: #fb923c;
+  --gradient-end: #f43f5e;
+  --gradient-shadow: rgba(251, 146, 60, 0.2);
   --line-color: #fff;
   --line-color-inset-shadow: #00000014;
   --line-color-inset-shadow-outer: #0000000d;
   --icon-bg: #303030;
-  --badge-bg-secondary: #232351;
+  --badge-bg-secondary: #3a1f12;
   --bs-card-color: #f8f9fa;
 
   /* Signals — "Open to work" is the only non-brand status color */
@@ -122,36 +122,36 @@
    Light Theme
    ============================================================= */
 [data-theme='light'] {
-  --bg-primary: #fafbfc;
-  --bg-secondary: #f4f6f9;
-  --bg-tertiary: #e8ecf1;
-  --text-primary: #0f172a;
-  --text-secondary: #475569;
-  --text-muted: #94a3b8;
-  --border-color: rgba(15, 23, 42, 0.06);
-  --shadow: rgba(15, 23, 42, 0.08);
-  --shadow-soft: 0 4px 20px rgba(15, 23, 42, 0.04);
-  --shadow-card: 0 8px 32px rgba(15, 23, 42, 0.05);
-  --shadow-hover: 0 16px 48px rgba(15, 23, 42, 0.08);
+  --bg-primary: #fdfaf7;
+  --bg-secondary: #f9f2ea;
+  --bg-tertiary: #f0e5d8;
+  --text-primary: #1c1410;
+  --text-secondary: #5c4f45;
+  --text-muted: #a3917f;
+  --border-color: rgba(60, 40, 20, 0.08);
+  --shadow: rgba(60, 40, 20, 0.08);
+  --shadow-soft: 0 4px 20px rgba(60, 40, 20, 0.05);
+  --shadow-card: 0 8px 32px rgba(60, 40, 20, 0.06);
+  --shadow-hover: 0 16px 48px rgba(60, 40, 20, 0.09);
   --card-bg: #fff;
-  --card-hover-bg: rgba(99, 102, 241, 0.03);
-  --accent-primary: #4f46e5;
-  --accent-secondary: #7c3aed;
-  --bg-particle-color: hsl(220, 50%, 75%);
-  --orb-color-1: rgba(99, 102, 241, 0.08);
-  --orb-color-2: rgba(59, 130, 246, 0.06);
-  --orb-color-3: rgba(14, 165, 233, 0.05);
-  --dot-grid-color: rgba(99, 102, 241, 0.04);
-  --gradient-start: #6366f1;
-  --gradient-mid: #4f46e5;
-  --gradient-end: #06b6d4;
-  --gradient-shadow: rgba(79, 70, 229, 0.12);
-  --line-color: #334155;
+  --card-hover-bg: rgba(234, 88, 12, 0.04);
+  --accent-primary: #c2410c;
+  --accent-secondary: #be123c;
+  --bg-particle-color: hsl(28, 70%, 60%);
+  --orb-color-1: rgba(251, 191, 36, 0.1);
+  --orb-color-2: rgba(249, 115, 22, 0.08);
+  --orb-color-3: rgba(244, 63, 94, 0.06);
+  --dot-grid-color: rgba(234, 88, 12, 0.05);
+  --gradient-start: #f59e0b;
+  --gradient-mid: #f97316;
+  --gradient-end: #e11d48;
+  --gradient-shadow: rgba(234, 88, 12, 0.12);
+  --line-color: #57433a;
   --line-color-inset-shadow: #ffffff1a;
   --line-color-inset-shadow-outer: #ffffff12;
-  --icon-bg: #f8fafc;
-  --badge-bg-secondary: #64748b;
-  --bs-card-color: #0f172a;
+  --icon-bg: #fdf6ee;
+  --badge-bg-secondary: #a8826b;
+  --bs-card-color: #1c1410;
 
   --status-ok: #16a34a;
   --status-ok-bg: rgba(22, 163, 74, 0.06);
