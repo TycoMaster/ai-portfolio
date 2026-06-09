@@ -17,6 +17,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "indexnow": "node scripts/indexnow.mjs",
     "purgecss": "purgecss -c purgecss.config.cjs",
     "analyze": "ANALYZE=true next build",
     "start": "next start",
