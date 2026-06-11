@@ -72,7 +72,7 @@ export const Header = ({ header, navItems }: { header: HeaderProps; navItems: Na
         <nav className="header__nav" aria-label="Main navigation">
           <Link href={header.home.href} className="header__logo" aria-label={header.home.ariaLabel}>
             <Image
-              src="/static/images/portfolio-brand-icon.png"
+              src="/static/images/my-hero.png"
               alt=""
               width={36}
               height={36}

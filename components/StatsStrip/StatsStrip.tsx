@@ -19,7 +19,7 @@ const StatCell = ({ value, suffix, label }: StatItem) => {
 };
 
 export const StatsStrip = ({ stats }: { stats: StatItem[] }) => (
-  <section className="stats" aria-label="Key stats">
+  <section className="stats w-fit mx-auto" aria-label="Key stats">
     {stats.map((s, i) => (
       <StatCell key={`${s.label}-${i}`} {...s} />
     ))}

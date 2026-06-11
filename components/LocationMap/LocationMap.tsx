@@ -3,12 +3,12 @@
 import { MapContainer, TileLayer } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 
-const PETERBOROUGH: [number, number] = [52.5695, -0.2405];
+const MELAKA: [number, number] = [2.3139, 102.3216];
 
 export const LocationMap = () => {
   return (
     <MapContainer
-      center={PETERBOROUGH}
+      center={MELAKA}
       zoom={12}
       zoomControl={false}
       attributionControl

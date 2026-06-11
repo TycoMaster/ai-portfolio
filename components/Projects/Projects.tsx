@@ -35,7 +35,7 @@ export const Projects = ({ projects }: { projects: ProjectsProps }) => {
       <div className="projects__bento">
         {items.map((p, i) => {
           const preview = p.images?.[0];
-          const featured = i === 0 || i === 3 || i === 8;
+          const featured = i === 0;
           const techSummary = p.technologies.slice(0, 4);
           const descriptionSnippet =
             p.description.length > 120 ? `${p.description.slice(0, 120)}…` : p.description;

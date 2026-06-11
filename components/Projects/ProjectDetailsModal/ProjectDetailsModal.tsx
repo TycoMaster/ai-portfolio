@@ -342,7 +342,7 @@ const ProjectDetailsModal = ({
                 aria-label={`Visit ${title} live site`}
               >
                 <Icon icon="majesticons:open" aria-hidden="true" />
-                <span>Visit Live Site</span>
+                <span>View Project</span>
               </Link>
             )}
           </div>

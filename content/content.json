@@ -1,8 +1,8 @@
 {
   "global": {
     "openToWork": true,
-    "openToWorkText": "Open to Work · UK & EU Remote",
-    "location": "Peterborough, UK",
+    "openToWorkText": "Available for Internships & Grad Roles",
+    "location": "Melaka, Malaysia",
     "navItems": [
       {
         "href": "/",
@@ -33,7 +33,7 @@
   "header": {
     "home": {
       "href": "/",
-      "label": "LH",
+      "label": "LZC",
       "ariaLabel": "Go to home"
     },
     "mobile": {
@@ -41,15 +41,14 @@
     }
   },
   "home": {
-    "title": "Lewis Hadden",
-    "name": "Lewis Hadden",
+    "title": "Law Zin Chen",
+    "name": "Law Zin Chen",
     "titles": [
-      "Senior Full Stack Engineer",
-      "Lead Frontend Developer",
-      "Cloud Infrastructure Architect",
-      "Lead Software Engineer"
+      "Artificial Intelligence Major",
+      "Computer Science Student",
+      "Generative AI Developer"
     ],
-    "tagline": "Senior full stack engineer based in Peterborough, UK. Nine years shipping React, Next.js & Azure at IBM, ADP, ERGO. Currently specialising in modernising platforms that refuse to be simple.",
+    "tagline": "Computer Science student at UTeM specializing in Artificial Intelligence. Passionate about prototyping generative AI applications, building autonomous agents, and crafting highly interactive digital experiences.",
     "cta": {
       "primary": {
         "text": "About Me",
@@ -66,24 +65,19 @@
     },
     "stats": [
       {
-        "value": 9,
+        "value": 100,
+        "suffix": "%",
+        "label": "Dedicated"
+      },
+      {
+        "value": 3,
         "suffix": "+",
-        "label": "Years Experience"
+        "label": "Core Tech Stacks"
       },
       {
-        "value": 8,
-        "suffix": "",
-        "label": "Tech Stacks"
-      },
-      {
-        "value": 30,
+        "value": 2,
         "suffix": "+",
-        "label": "Projects Delivered"
-      },
-      {
-        "value": 9,
-        "suffix": "",
-        "label": "Industries"
+        "label": "Hackathons Attended"
       }
     ]
   },
@@ -92,21 +86,21 @@
     "label": "Get to know me",
     "openToWorkText": "Available for opportunities",
     "descriptionHeader": "",
-    "description": "<p><strong>Hi, I’m Lewis</strong> — a <em>senior full stack engineer</em> based in Peterborough, UK, with <strong>nine years</strong> of shipping production software across automotive, insurance, payroll, and government sectors.</p><p>I’ve led engineering teams at <strong>IBM, Sopra Steria, and ERGO</strong>, architected cloud infrastructure on <em>Azure and AWS</em>, and delivered everything from <em>React SPAs and Next.js platforms</em> to serverless backends and real-time data pipelines — always with a focus on code that’s fast, secure, and built to last.</p><p>Currently contracted to <strong>ADP</strong> on their flagship <em>RUN payroll platform</em>. I’m open to my next senior or lead role — remote, UK or EU — whether freelance or permanent.</p>",
+    "description": "<p><strong>Hi, I’m Law Zin Chen</strong> — an Artificial Intelligence major pursuing my Bachelor of Computer Science at Universiti Teknikal Malaysia Melaka (UTeM).</p><p>My technical focus lies in the future of AI workflows. I actively prototype generative AI applications utilizing the Gemini API and explore advanced concepts like the Model Context Protocol. I recently completed the Gemini Nexus: The Agentverse bootcamp, further solidifying my hands-on experience with autonomous agents.</p><p>Beyond writing code, I have a deep interest in PC hardware troubleshooting and gaming setups. To balance my screen time, I enjoy community photography, recently participating in a visual trip to Pulau Ketam, and staying active with streetwear and sneaker culture.</p>",
     "image": {
       "url": "/static/images/portrait.png",
       "size": {
-        "width": 2252,
-        "height": 2526
+        "width": 300,
+        "height": 470
       }
     },
     "cv": {
-      "download": "Lewis Hadden - Senior Full Stack Engineer.pdf"
+      "download": "Law_Zin_Chen_Resume.pdf"
     },
     "cta": {
       "primary": {
         "text": "Download CV",
-        "url": "/static/documents/Lewis Hadden - Senior Full Stack Engineer.pdf",
+        "url": "/static/documents/Law_Zin_Chen_Resume.pdf",
         "icon": "mdi:download",
         "ariaLabel": "Download CV as PDF"
       },
@@ -119,24 +113,24 @@
     },
     "highlights": [
       {
-        "icon": "mdi:react",
-        "title": "React & Next.js",
-        "sub": "Enterprise SPAs and platforms shipped for IBM, ADP & ERGO"
+        "icon": "mdi:brain",
+        "title": "Artificial Intelligence",
+        "sub": "Prototyping with Gemini API & Google AI Studio"
       },
       {
-        "icon": "mdi:microsoft-azure",
-        "title": "Cloud Architect",
-        "sub": "Azure (Cosmos DB, Functions, Event Hubs) & AWS (Lambda, EC2, S3)"
+        "icon": "mdi:laptop",
+        "title": "Computer Science",
+        "sub": "Pursuing my Bachelor's degree at UTeM"
+      },
+      {
+        "icon": "mdi:chart-bar",
+        "title": "Data Storytelling",
+        "sub": "Experienced in academic data analysis competitions"
       },
       {
         "icon": "mdi:account-group",
-        "title": "Team Lead",
-        "sub": "Led engineering teams at IBM, Sopra Steria & ERGO"
-      },
-      {
-        "icon": "mdi:shield-check",
-        "title": "Secure & Compliant",
-        "sub": "Payroll, insurance, sanctions & GDPR delivered at scale"
+        "title": "Professional Growth",
+        "sub": "Completed the Jabil Early Career Programs Bootcamp 2.0"
       }
     ]
   },
@@ -148,119 +142,24 @@
     },
     "items": [
       {
-        "company": "ADP",
-        "title": "Senior Full Stack Engineer (Contractor)",
-        "years": "Jan 2025 - Present",
-        "description": "Building enterprise features for ADP's payroll platform, used by 950,000+ clients worldwide. Focused on React migrations, WCAG accessibility compliance, and controlled feature rollouts via feature flags.",
-        "mainTech": ["React", "Tailwind CSS", "Cypress", "React Testing Library", "Webpack"],
-        "icon": "devicon:react",
-        "technologies": ["JavaScript", "REST API", "Jest", "Virtual Machines"]
+        "company": "Xiaomi & SNS Network",
+        "title": "Promoter & Retail Specialist",
+        "years": "Jun 2024 - Aug 2024",
+        "description": "Managed daily store operations and optimized staff shift scheduling systems. Assisted customers by providing detailed technical hardware specifications and troubleshooting device issues.",
+        "mainTech": ["Store Management", "Shift Scheduling", "Customer Relations"],
+        "icon": "devicon:cellphone",
+        "technologies": ["Hardware Troubleshooting", "Retail Operations"]
       },
       {
-        "company": "ERGO Travel Insurance",
-        "title": "Lead Full Stack Engineer",
-        "years": "Apr 2024 - Nov 2024",
-        "description": "Led full-stack delivery of production digital services for a travel insurance MGA. Defined company-wide dev standards, architected Azure infrastructure, and established the foundational UI boilerplate and local development tooling.",
-        "mainTech": ["Next.js", "TypeScript", "Azure", "Cosmos DB", "Serverless Functions"],
-        "icon": "devicon:nextjs",
+        "company": "Shopee Shop",
+        "title": "E-Commerce Seller Account Manager",
+        "years": "Past Role",
+        "description": "Managed an e-commerce seller account, overseeing digital product listings, and tracking consumer data to optimize sales.",
+        "mainTech": ["Digital Marketing", "E-Commerce", "Data Analytics"],
+        "icon": "devicon:shopping",
         "technologies": [
-          "React",
-          "CSS Modules",
-          "Node.js",
-          "Event Hubs",
-          "Blob & Table Storage",
-          "DevOps Pipelines",
-          "Docker",
-          "Jest"
+          "Digital Payments", "Storefront Management", "Consumer Trends"
         ]
-      },
-      {
-        "company": "Sopra Steria",
-        "title": "Cloud Infrastructure Architect",
-        "years": "Jun 2023 – Dec 2023",
-        "description": "Sole architect of a greenfield Azure cloud infrastructure for UK Power Networks. Designed the database schema, security model, and produced comprehensive architecture documentation for a new energy sector microsite.",
-        "mainTech": ["Azure", "Cosmos DB", "REST API"],
-        "icon": "devicon:azure",
-        "technologies": ["Serverless Functions", "Content Delivery Network", "Blob Storage"]
-      },
-      {
-        "company": "Sopra Steria",
-        "title": "Lead Software Engineer",
-        "years": "Aug 2022 - Apr 2023",
-        "description": "Led development of real-time traffic management dashboards for the Singapore Land Transport Authority. Delivered complex Angular components and engineered a bespoke split-tunnel VPN solution for secure environment access.",
-        "mainTech": ["Angular 8+", "TypeScript", "React", "Flutter"],
-        "icon": "devicon:angularjs",
-        "technologies": [
-          "Node.js",
-          "HTML5",
-          "SCSS / CSS3",
-          "Jest",
-          "PowerBI",
-          "Split Tunnelling (VPN)"
-        ]
-      },
-      {
-        "company": "IBM",
-        "title": "Senior Full Stack Developer",
-        "years": "Jan 2022 - Jul 2022",
-        "description": "Led an agile team delivering a new e-commerce journey for Audi UK. Architected the full AWS stack — Lambda, DynamoDB, EC2, API Gateway — while managing sprints, presenting to stakeholders, and mentoring engineers.",
-        "mainTech": ["React", "Redux", "TypeScript", "AWS", "Node.js", "DynamoDB"],
-        "icon": "devicon:react",
-        "technologies": [
-          "JavaScript",
-          "Carbon Design System",
-          "Jest + Enzyme",
-          "CloudFormation",
-          "Lambda",
-          "EC2",
-          "S3",
-          "API Gateway",
-          "JIRA"
-        ]
-      },
-      {
-        "company": "IBM",
-        "title": "Lead Front End Developer",
-        "years": "Jan 2021 - Jan 2022",
-        "description": "Led a frontend team building a drag-and-drop micro-frontend platform for Audi UK, enabling content editors to create bespoke SPAs without writing code. Pioneered a shared Redux store across independent React apps and achieved 100% test coverage.",
-        "mainTech": ["React", "Redux", "TypeScript", "Micro-Frontends", "Adobe Experience Manager"],
-        "icon": "devicon:react",
-        "technologies": [
-          "JavaScript",
-          "Jest + Enzyme",
-          "AWS",
-          "FeatureHub",
-          "GitHub Workflows",
-          "Adobe Launch",
-          "JIRA"
-        ]
-      },
-      {
-        "company": "IBM",
-        "title": "Front End Developer",
-        "years": "Aug 2018 - Jan 2021",
-        "description": "Contributed to the Audi UK website in a fast-paced agile team. Built React/Redux features, wrote automated test suites with WebdriverIO and BrowserStack, and helped migrate the legacy tech stack to AWS.",
-        "mainTech": ["React", "Redux", "TypeScript", "AWS", "Adobe Experience Manager"],
-        "icon": "devicon:react",
-        "technologies": [
-          "JavaScript",
-          "Webpack",
-          "Babel",
-          "Jest + Enzyme",
-          "WebdriverIO",
-          "BrowserStack",
-          "Carbon Design System",
-          "Docker"
-        ]
-      },
-      {
-        "company": "IBM",
-        "title": "QA Tester",
-        "years": "Jan 2018 - Aug 2018",
-        "description": "Performed manual and automated testing across IBM web applications. Wrote automated test suites using WebdriverIO and Selenium with BrowserStack cross-browser coverage, and managed defect escalation through JIRA.",
-        "mainTech": ["Selenium", "WebdriverIO", "Cucumber / Gherkin", "BrowserStack", "JIRA"],
-        "icon": "skill-icons:selenium",
-        "technologies": ["Appium", "Node.js", "React", "JavaScript", "HTML", "CSS"]
       }
     ]
   },
@@ -269,787 +168,89 @@
     "label": "What I've built",
     "items": [
       {
-        "title": "Sidenote",
+        "title": "Data Storytelling Case Studies",
+        "startDate": "Academic",
+        "description": "Competed in academic data storytelling competitions. The work involved extracting raw datasets, performing comprehensive analysis, and translating complex numerical data into clear, narrative-driven visual presentations designed to inform non-technical stakeholders.",
+        "theme": {
+          "text": "light",
+          "border": "light",
+          "background": "dark"
+        },
+        "thumbnail": "mdi:chart-timeline",
+        "images": [
+          {
+            "url": "/static/images/projects/data-storytelling.png",
+            "size": { "width": 1280, "height": 720 }
+          }
+        ],
+        "url": "https://youtu.be/2Kxj3XOIi7k",
+        "technologies": [
+          { 
+            "class": "mdi:chart-box",
+            "name": "Data Analysis" 
+          },
+          {
+            "class": "mdi:presentation", 
+            "name": "Case Study Research" 
+          }
+        ]
+      },
+      {
+        "title": "Gemini Nexus: The Agentverse",
         "startDate": "2026",
-        "description": "Sidenote is a passion project I designed and built from scratch — a Chrome extension that turns the browser side panel into an AI-powered reading assistant for articles, PDFs, research papers and uploaded documents. It summarises any page in seconds at three depths — a quick TL;DR, a standard overview, or a structured deep-read — and lets you chat with the document, where every answer is backed by numbered citations that scroll to and highlight the exact source passage when clicked. An Explain Simply tool rewrites dense, jargon-heavy passages at a chosen reading level without losing accuracy, and an automatically generated glossary defines every key term and links back to where it first appears on the page. Built as a pnpm monorepo, Sidenote pairs a Vite and React 19 Manifest V3 extension with a Next.js 16 backend deployed on Vercel, backed by Supabase (Postgres with pgvector) for storage and authentication, Anthropic's Claude models for generation, and Voyage AI embeddings for citation retrieval. It ships with passwordless magic-link sign-in, Stripe billing and a free tier.",
+        "description": "Participated in a rigorous three-week AI agent bootcamp and hackathon. The project focused on prototyping generative AI applications utilizing the Gemini API. I gained hands-on experience designing autonomous AI workflows and integrating the Model Context Protocol to create highly capable, context-aware digital agents.",
         "theme": {
           "text": "light",
           "border": "light",
           "background": "dark"
         },
-        "thumbnail": "ph:sidebar",
+        "thumbnail": "ph:robot",
         "images": [
           {
-            "url": "/static/images/projects/sidenote/01-summarise.avif",
-            "alt": "Sidenote summarising a Wikipedia article in the browser side panel",
-            "size": {
-              "width": 1280,
-              "height": 800
-            }
-          },
-          {
-            "url": "/static/images/projects/sidenote/02-chat-with-citations.avif",
-            "alt": "Sidenote answering a question with numbered citations linking to the source passage",
-            "size": {
-              "width": 1280,
-              "height": 800
-            }
-          },
-          {
-            "url": "/static/images/projects/sidenote/03-explain-simply.avif",
-            "alt": "Sidenote rewriting a passage in plain language at a chosen reading level",
-            "size": {
-              "width": 1280,
-              "height": 800
-            }
-          },
-          {
-            "url": "/static/images/projects/sidenote/04-glossary.avif",
-            "alt": "Sidenote's automatically generated glossary of key terms from a document",
-            "size": {
-              "width": 1280,
-              "height": 800
-            }
-          },
-          {
-            "url": "/static/images/projects/sidenote/05-pin-and-go.avif",
-            "alt": "The Sidenote extension pinned to the Chrome toolbar with passwordless sign-in",
-            "size": {
-              "width": 1280,
-              "height": 800
-            }
+            "url": "/static/images/projects/gemini-nexus.png",
+            "size": { "width": 1280, "height": 720 }
           }
         ],
-        "url": "https://getsidenote.app",
+        "url": "",
         "technologies": [
-          {
-            "class": "devicon:nextjs",
-            "name": "Next.js"
-          },
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "logos:claude-icon",
-            "name": "Anthropic Claude"
-          },
-          {
-            "class": "devicon:tailwindcss",
-            "name": "Tailwind CSS"
-          },
-          {
-            "class": "devicon:vitejs",
-            "name": "Vite"
-          },
-          {
-            "class": "logos:chrome",
-            "name": "Chrome Extension"
-          },
-          {
-            "class": "logos:supabase-icon",
-            "name": "Supabase"
-          },
-          {
-            "class": "devicon:postgresql",
-            "name": "PostgreSQL"
-          },
-          {
-            "class": "logos:stripe",
-            "name": "Stripe"
-          }
+          { "class": "logos:google-icon", "name": "Google AI Studio" },
+          { "class": "mdi:api", "name": "Gemini API" },
+          { "class": "mdi:brain", "name": "Autonomous Agents" }
         ]
       },
       {
-        "title": "Drive King",
+        "title": "Digital Portfolio (HCI & Design)",
         "startDate": "2026",
-        "description": "Drive King is a driving school website I designed and built from scratch for Drive King Driving School, run by DVSA Approved Driving Instructor (ADI) Janine Hayes in Caddington, covering Bedfordshire and Hertfordshire. The site introduces the instructor and her car, showcases a Hall of Fame of students who have passed, and pulls in live five-star Google reviews through the Google Places API. An interactive Leaflet map lets visitors explore every town and village covered, with dedicated per-area pages detailing local routes and the nearest test centres, alongside SEO-friendly learner guides, transparent lesson pricing, an FAQ, and a contact form that delivers enquiries by email via Resend. Built with Next.js (App Router), React 19, TypeScript and Tailwind CSS v4, the entire site is editable through TinaCMS — all copy lives in structured content and images are served from Vercel Blob storage — and it is deployed on Vercel with Vercel Analytics, a generated XML sitemap and per-page metadata for SEO.",
+        "description": "Engineered this high-fidelity digital portfolio as an individual project for Sem 2. Built using Next.js and React, the platform demonstrates strict adherence to Human-Computer Interaction (HCI) principles. It features a sticky navigation structure for intuitive information organization, a high-contrast minimalist interface for accessibility, and dynamic interaction styles including smooth scrolling and hover states.",
         "theme": {
           "text": "light",
           "border": "light",
           "background": "dark"
         },
-        "thumbnail": "mdi:steering",
+        "thumbnail": "mdi:monitor-dashboard",
         "images": [
           {
-            "url": "/static/images/projects/drive-king/poster.avif",
-            "alt": "Drive King driving school promotional poster",
-            "size": {
-              "width": 3024,
-              "height": 1928
-            }
-          },
-          {
-            "url": "/static/images/projects/drive-king/home.avif",
-            "alt": "Drive King driving school home page",
-            "size": {
-              "width": 3024,
-              "height": 8206
-            }
-          },
-          {
-            "url": "/static/images/projects/drive-king/about.avif",
-            "alt": "About Janine Hayes, the Drive King driving instructor",
-            "size": {
-              "width": 3024,
-              "height": 6592
-            }
-          },
-          {
-            "url": "/static/images/projects/drive-king/hall-of-fame.avif",
-            "alt": "Drive King Hall of Fame showcasing students who passed their driving test",
-            "size": {
-              "width": 3024,
-              "height": 11066
-            }
-          },
-          {
-            "url": "/static/images/projects/drive-king/areas.avif",
-            "alt": "Interactive map of the Bedfordshire and Hertfordshire areas Drive King covers",
-            "size": {
-              "width": 3024,
-              "height": 5558
-            }
-          },
-          {
-            "url": "/static/images/projects/drive-king/pricing.avif",
-            "alt": "Drive King driving lesson packages and pricing",
-            "size": {
-              "width": 3024,
-              "height": 4548
-            }
-          },
-          {
-            "url": "/static/images/projects/drive-king/guides.avif",
-            "alt": "Drive King learner driver guides",
-            "size": {
-              "width": 3024,
-              "height": 4758
-            }
-          },
-          {
-            "url": "/static/images/projects/drive-king/faq.avif",
-            "alt": "Drive King frequently asked questions",
-            "size": {
-              "width": 3024,
-              "height": 5200
-            }
-          },
-          {
-            "url": "/static/images/projects/drive-king/contact.avif",
-            "alt": "Drive King contact form",
-            "size": {
-              "width": 3024,
-              "height": 4406
-            }
+            "url": "/static/images/projects/portfolio.png",
+            "size": { "width": 1280, "height": 720 }
           }
         ],
-        "url": "https://drive-king.co.uk",
+        "url": "",
         "technologies": [
-          {
+          { 
             "class": "devicon:nextjs",
-            "name": "Next.js"
+            "name": "Next.js" 
           },
-          {
+          { 
             "class": "devicon:react",
-            "name": "React"
+            "name": "React" 
           },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
+          { 
             "class": "devicon:tailwindcss",
-            "name": "Tailwind CSS"
+            "name": "Tailwind CSS" 
           },
-          {
-            "class": "simple-icons:tina",
-            "name": "TinaCMS"
-          },
-          {
-            "class": "logos:leaflet",
-            "name": "Leaflet"
-          },
-          {
-            "class": "simple-icons:resend",
-            "name": "Resend"
-          },
-          {
-            "class": "logos:google-icon",
-            "name": "Google Places API"
-          },
-          {
-            "class": "devicon:vercel",
-            "name": "Vercel"
-          }
-        ]
-      },
-      {
-        "title": "Smiley Pets",
-        "startDate": "2026",
-        "description": "Smiley Pets is a professional pet care website I designed and built from scratch for a local business established in 2010. The site showcases their dog walking and pet sitting services, highlights their credentials — fully insured, DBS checked, and Canine First Aid certified — and builds trust through client testimonials and a photo gallery of happy pets in their care. Key features include a pet photo film strip, a full gallery, a contact and booking section, and social media integration. Built with Next.js, React, TypeScript and Tailwind CSS, and deployed on Vercel.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "mdi:paw",
-        "images": [
-          {
-            "url": "/static/images/projects/smiley-pets/smiley-pets_homepage.avif",
-            "size": {
-              "width": 3024,
-              "height": 1660
-            }
-          },
-          {
-            "url": "/static/images/projects/smiley-pets/smiley-pets_film-strip.avif",
-            "size": {
-              "width": 3024,
-              "height": 1418
-            }
-          },
-          {
-            "url": "/static/images/projects/smiley-pets/smiley-pets_gallery.avif",
-            "size": {
-              "width": 3024,
-              "height": 1658
-            }
-          },
-          {
-            "url": "/static/images/projects/smiley-pets/smiley-pets_contact.avif",
-            "size": {
-              "width": 3024,
-              "height": 1656
-            }
-          }
-        ],
-        "url": "https://smileypets.co.uk",
-        "technologies": [
-          {
-            "class": "devicon:nextjs",
-            "name": "Next.js"
-          },
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon:tailwindcss",
-            "name": "Tailwind CSS"
-          },
-          {
-            "class": "devicon:vercel",
-            "name": "Vercel"
-          }
-        ]
-      },
-      {
-        "title": "Sip Happens",
-        "startDate": "2026",
-        "description": "Sip Happens is a passion project I designed and built from scratch — a dedicated review platform for espresso martini enthusiasts. The site features honest, detailed bar reviews from around the world, a blog exploring espresso martini culture, and an interactive global map that lets users explore reviewed bars by location. Visitors can submit bar recommendations to help grow the platform's coverage. Built entirely with Next.js, React, TypeScript and Tailwind CSS, the platform uses a PostgreSQL database to store and serve reviews, blog posts, and submission data. The site is deployed and live at sip-happens.co.uk, with an active social presence on Instagram and TikTok.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "mdi:glass-cocktail",
-        "images": [
-          {
-            "url": "/static/images/projects/sip-happens/sip-happens_homepage.avif",
-            "size": {
-              "width": 3024,
-              "height": 1656
-            }
-          },
-          {
-            "url": "/static/images/projects/sip-happens/sip-happens_globe.avif",
-            "size": {
-              "width": 3024,
-              "height": 1658
-            }
-          }
-        ],
-        "url": "https://sip-happens.co.uk",
-        "technologies": [
-          {
-            "class": "devicon:nextjs",
-            "name": "Next.js"
-          },
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon:tailwindcss",
-            "name": "Tailwind CSS"
-          },
-          {
-            "class": "devicon:postgresql",
-            "name": "PostgreSQL"
-          }
-        ]
-      },
-      {
-        "title": "ADP RUN",
-        "startDate": "2025",
-        "description": "I am currently contracted to ADP, a global leader in payroll and HR solutions, where I am working on their ADP RUN platform. My role involves developing new features and enhancements for the platform, using feature flags to enable a highly customisable user experience. I use React and Tailwind CSS to build a highly responsive, mobile-first user experience. I am also responsible for writing comprehensive unit tests using Jest and React Testing Library, as well as e2e tests using Cypress to ensure the reliability and maintainability of the codebase.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "tdesign:money",
-        "images": [
-          {
-            "url": "/static/images/projects/run/home-page.avif",
-            "size": {
-              "width": 3584,
-              "height": 1956
-            }
-          },
-          {
-            "url": "/static/images/projects/run/hero.avif",
-            "size": {
-              "width": 620,
-              "height": 394
-            }
-          },
-          {
-            "url": "/static/images/projects/run/pde.webp",
-            "size": {
-              "width": 1492,
-              "height": 839
-            }
-          },
-          {
-            "url": "/static/images/projects/run/login-screen.avif",
-            "size": {
-              "width": 3024,
-              "height": 1638
-            }
-          }
-        ],
-        "url": "https://online.adp.com/signin/v1/?APPID=RUN&productId=80e309c3-70c3-bae1-e053-3505430b5495",
-        "technologies": [
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:tailwindcss",
-            "name": "Tailwind CSS"
-          },
-          {
-            "class": "devicon:webpack",
-            "name": "Webpack"
-          },
-          {
-            "class": "devicon:cypressio",
-            "name": "Cypress IO"
-          }
-        ]
-      },
-      {
-        "title": "Sanctions Checker",
-        "startDate": "2024",
-        "description": "I developed a sanctions checking tool for an insurance MGA which allows them to search for a name against the public database of open sanctions to determine whether or not a user is eligible for travel insurance. The tool allows them to view all of the publicly available data associated with a sanctioned person. We tested various sanction checking tools, for example OFSI - HM Treasury and the government UK Sanctions List, and found the accuracy of my solution to be far superior to all of the other tools we tested against. The tool consists of 2 parts on the backend, a daily job which queries the latest dataset and stores them in a CosmosDB instance, and an API that performs a search against the database given a name as input. The front-end is a Next.js application that provides a search input field and interfaces with the API to show the set of results. I built the tool to perform a thorough search by consolidating several SQL queries to check against multiple search vectors such as aliases and abbreviated first names to ensure that no sanctions are missed.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "mdi:gavel",
-        "images": [
-          {
-            "url": "/static/images/projects/sanctions/login-screen.avif",
-            "size": {
-              "width": 3024,
-              "height": 1646
-            }
-          }
-        ],
-        "url": "https://sanctions-checker.etisolutionshub.co.uk",
-        "technologies": [
-          {
-            "class": "devicon:nextjs",
-            "name": "Next.js"
-          },
-          {
-            "class": "logos:mantine-icon",
-            "name": "Mantine UI"
-          },
-          {
-            "class": "devicon:azure",
-            "name": "Azure"
-          },
-          {
-            "class": "devicon:cosmosdb",
-            "name": "Azure CosmosDB"
-          },
-          {
-            "class": "mdi:function-variant",
-            "name": "Serverless Functions"
-          },
-          {
-            "class": "vscode-icons:file-type-azurepipelines",
-            "name": "DevOps Pipelines"
-          },
-          {
-            "class": "carbon:object-storage",
-            "name": "Object Storage"
-          },
-          {
-            "class": "devicon:nodejs",
-            "name": "NodeJS"
-          },
-          {
-            "class": "dashicons:rest-api",
-            "name": "REST API"
-          }
-        ]
-      },
-      {
-        "title": "Oralieve ",
-        "startDate": "2024",
-        "description": "I contracted for Oralieve to complete several tasks on their Shopify store. I was responsible for implementing a new patient samples form, which allows dental professionals to request free samples of Oralieve products for their patients. I also implemented a minimum spend free shipping feature, as well as many other new features and bugfixes.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "fa-solid:tooth",
-        "images": [
-          {
-            "url": "/static/images/projects/oralieve/patient-samples-form.avif",
-            "size": {
-              "width": 3024,
-              "height": 3882
-            }
-          },
-          {
-            "url": "/static/images/projects/oralieve/free-shipping-notice.avif",
-            "size": {
-              "width": 662,
-              "height": 872
-            }
-          }
-        ],
-        "url": "https://www.oralieve-direct.co.uk/",
-        "technologies": [
-          {
-            "class": "logos:shopify",
-            "name": "Shopify"
-          }
-        ]
-      },
-      {
-        "title": "AirDoctor Webhook",
-        "startDate": "2024",
-        "description": "AirDoctor is a platform that enables its users to connect with nearby doctors whilst abroad, making it easy to claim back on their travel insurance policy to recieve the treatment they need. Whilst working at ERGO Travel Insurance Services, I architected, developed and deployed the entire Webhook that ingests and processes insurance claims from the AirDoctor platform. This has enabled ERGO to underwrite the sales of new insurance policies for their partner insurance companies through the AirDoctor platform, bringing in a large stream of new revenue. I was the sole developer working on the project, and drove it from it's conceptualization, all the way through to delivery of the enterprise-grade, production ready solution. Adhering strictly to best practice secure programming principals in both code and infrastructure, the final solution is extremely robust and secure. I also built a docker stack with local azure emulators to enable local development, mitigating the risks of performing any unwanted actions on an environment. This docker stack can be used for all development team projects going forward, providing an extra layer of security as well as offline development capability.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "fa:heartbeat",
-        "images": [
-          {
-            "url": "/static/images/projects/airdoctor/AirDoctor.png",
-            "size": {
-              "width": 711,
-              "height": 216
-            }
-          }
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:azure",
-            "name": "Azure"
-          },
-          {
-            "class": "carbon:ibm-global-storage-architecture",
-            "name": "Azure Storage (Blob / Tables)"
-          },
-          {
-            "class": "mdi:function-variant",
-            "name": "Serverless Functions"
-          },
-          {
-            "class": "vscode-icons:file-type-azurepipelines",
-            "name": "DevOps Pipelines"
-          },
-          {
-            "class": "material-symbols:business-messages",
-            "name": "Event Hubs"
-          },
-          {
-            "class": "devicon:nodejs",
-            "name": "NodeJS"
-          },
-          {
-            "class": "logos:webhooks",
-            "name": "Webhooks"
-          },
-          {
-            "class": "logos:docker-icon",
-            "name": "Docker"
-          }
-        ]
-      },
-      {
-        "title": "Audi Form Builder",
-        "startDate": "2021",
-        "description": "I led a development team in creating a new advanced technical capability. This capability allowed content editors to create custom forms on the Audi website without writing new code. They can drag and drop any of our React micro-frontends onto a new page, and the system will work seamlessly. I was responsible for designing and implementing the solution while leading the development team throughout the project. Currently, the Audi site has four forms created using the Audi Form Builder.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "simple-icons:googleforms",
-        "images": [
-          {
-            "url": "/static/images/projects/afb/BATD.avif",
-            "size": {
-              "width": 3592,
-              "height": 3978
-            }
-          },
-          {
-            "url": "/static/images/projects/afb/AU.avif",
-            "size": {
-              "width": 3592,
-              "height": 3034
-            }
-          },
-          {
-            "url": "/static/images/projects/afb/RAC.avif",
-            "size": {
-              "width": 3592,
-              "height": 3914
-            }
-          },
-          {
-            "url": "/static/images/projects/afb/RYI.avif",
-            "size": {
-              "width": 3592,
-              "height": 3438
-            }
-          }
-        ],
-        "url": "https://www.audi.co.uk/uk/web/en/call-me-back.html",
-        "technologies": [
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon:redux",
-            "name": "Redux"
-          }
-        ]
-      },
-      {
-        "title": "Cookie Control",
-        "startDate": "2018",
-        "description": "I was responsible for single-handedly designing and implementing the Cookie Control system for the Audi UK website to ensure compliance with GDPR regulations. To achieve this, I utilized Adobe Launch to develop custom rule sets and JavaScript tags, allowing me to control the triggering of third-party tracking tags and custom analytics based on the users' cookie settings.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "emojione-monotone:cookie",
-        "images": [
-          {
-            "url": "/static/images/projects/cookies/popup-small.avif",
-            "size": {
-              "width": 1198,
-              "height": 906
-            }
-          },
-          {
-            "url": "/static/images/projects/cookies/popup-banner.avif",
-            "size": {
-              "width": 2294,
-              "height": 1430
-            }
-          },
-          {
-            "url": "/static/images/projects/cookies/side-nav.avif",
-            "size": {
-              "width": 2784,
-              "height": 2014
-            }
-          }
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:javascript",
-            "name": "JavaScript"
-          },
-          {
-            "class": "arcticons:adobe-analytics",
-            "name": "Adobe Analytics"
-          },
-          {
-            "class": "emojione:cookie",
-            "name": "Cookies"
-          }
-        ]
-      },
-      {
-        "title": "Audi Digital Transformation",
-        "startDate": "2018",
-        "description": "During my five years on the Audi UK project, I was pivotal in modernizing and transforming their technology infrastructure. This involved migrating their legacy tech stack onto AWS and completely overhauling their website. As a front-end development team leader, I spearheaded the development and implementation of cutting-edge web apps and new SPAs. Additionally, I contributed to the technical innovation of their new infrastructure before transitioning into full-stack development. I gained a great deal of knowledge and experience during this project, and it remains one of my most cherished professional accomplishments.",
-        "thumbnail": "cbi:audi",
-        "images": [
-          {
-            "url": "/static/images/projects/spa/OSB.avif",
-            "size": {
-              "width": 3600,
-              "height": 5364
-            }
-          },
-          {
-            "url": "/static/images/projects/spa/PX.avif",
-            "size": {
-              "width": 3600,
-              "height": 2394
-            }
-          }
-        ],
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "logos:aws",
-            "name": "AWS"
-          }
-        ]
-      },
-      {
-        "title": "Traffic Management Portal",
-        "startDate": "2022",
-        "description": "I created bespoke real-time traffic monitoring, reporting, and management dashboards for the Singapore Land Traffic Authority (LTA). These dashboards provided LTA with an online portal to view live updates on their road traffic data. The dashboards were user-friendly, intuitive, and graphical, allowing LTA to monitor road incidents, create custom automated alerts, view live congestion maps, statistical charts and graphs, and much more. As a result, this solution became one of the most highly-capable and feature-rich land traffic management solutions ever created. I was responsible for developing complex Angular components for the dashboards, migrating legacy code, and reviewing and deploying new code across environments.",
-        "thumbnail": "carbon:road",
-        "images": [],
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:angularjs",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon:sass",
-            "name": "SCSS"
-          }
-        ]
-      },
-      {
-        "title": "Audex",
-        "startDate": "2022",
-        "description": "I architected and developed the front-end foundations for a significant module powering Audex, an online media visualisation and analysis portal. Renowned as a highly-skilled React developer, I was brought on board to single-handedly work on the React Front-End for the platforms' Analyse module. I began by developing a POC, successfully demonstrating the ability to display a PowerBI graph in a React app which subscribes to the PowerBI data source and renders real-time analysis data. After delivering on my React competency, I concluded my time on the project after creating the official repository for the Analyse module and the boilerplate containing the underlying technology to power the entire module.",
-        "thumbnail": "solar:chart-bold",
-        "images": [
-          {
-            "url": "/static/images/projects/audex/homepage.avif",
-            "size": {
-              "width": 3600,
-              "height": 1950
-            }
-          },
-          {
-            "url": "/static/images/projects/audex/about.avif",
-            "size": {
-              "width": 3594,
-              "height": 2012
-            }
-          }
-        ],
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "url": "https://audex.media/welcome",
-        "technologies": [
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "logos:microsoft-power-bi",
-            "name": "PowerBI"
-          }
-        ]
-      },
-      {
-        "title": "Home Greening Microsite",
-        "startDate": "2023",
-        "description": "I was solely responsible for the architecture and design of the entire cloud infrastructure for a proposed new micro-site for UK Power Networks. I led the cloud and Front-End development teams during the design and planning phases, guiding them through the solution and implementation. The client preferred Azure as their cloud provider, and I worked closely with them to ensure that my infrastructure design complied with their strict security standards. After collaborating with the client's security team, I created an optimal cloud infrastructure solution that met their functional and security requirements. I analysed the functionality of the microsite to gather the data requirements and used this to devise the most efficient database schema for Cosmos DB. I also created detailed architecture diagrams and a comprehensive technical design breakdown of the Azure architecture, including justifications and decisions made for each service, along with implementation and configuration steps.",
-        "thumbnail": "mdi:home-battery",
-        "images": [],
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:azure",
-            "name": "Azure"
-          },
-          {
-            "class": "material-symbols:api",
-            "name": "REST API"
-          },
-          {
-            "class": "devicon:cosmosdb",
-            "name": "Cosmos DB"
+          { 
+            "class": "devicon:docker",
+            "name": "Docker Environment" 
           }
         ]
       }
@@ -1059,380 +260,25 @@
   "skills": {
     "title": "Skills",
     "label": "My toolkit",
-    "tagline": "Nine years of production JavaScript, picked up the ecosystem along the way.",
+    "tagline": "Combining artificial intelligence principles with modern web development.",
     "marquee": [
-      "React",
-      "Next.js",
-      "JavaScript",
-      "SCSS",
-      "NodeJS",
-      "Redux",
-      "TypeScript",
-      "CSS Modules",
-      "REST API",
-      "Docker",
-      "Jest",
-      "Git",
-      "Tailwind CSS",
-      "Mantine UI",
-      "Cypress",
-      "Selenium",
-      "Cucumber / Gherkin",
-      "CI/CD Pipelines",
-      "Postman",
-      "Azure",
-      "AWS",
-      "WebdriverIO",
-      "Bash",
-      "Linux"
+      "Generative AI", "Gemini API", "Python", "Next.js", "React", "Docker", "GitLab", "Data Analysis", "Prompt Engineering"
     ],
     "categories": [
-      {
-        "title": "Frontend",
-        "icon": "mdi:monitor",
-        "categoryKey": "frontend"
-      },
-      {
-        "title": "Backend & Cloud",
-        "icon": "mdi:cloud-outline",
-        "categoryKey": "backend"
-      },
-      {
-        "title": "Testing",
-        "icon": "mdi:flask-outline",
-        "categoryKey": "testing"
-      },
-      {
-        "title": "Tooling & DevOps",
-        "icon": "mdi:wrench-outline",
-        "categoryKey": "tooling"
-      }
+      { "title": "Artificial Intelligence", "icon": "mdi:brain", "categoryKey": "ai" },
+      { "title": "Development", "icon": "mdi:monitor", "categoryKey": "dev" },
+      { "title": "Infrastructure", "icon": "mdi:server", "categoryKey": "infra" }
     ],
     "icons": [
-      {
-        "name": "React",
-        "class": "devicon:react",
-        "level": "100",
-        "category": "frontend"
-      },
-      {
-        "name": "Next.js",
-        "class": "devicon:nextjs",
-        "level": "100",
-        "category": "frontend"
-      },
-      {
-        "name": "Redux",
-        "class": "devicon:redux",
-        "level": "95",
-        "category": "frontend"
-      },
-      {
-        "name": "TypeScript",
-        "class": "devicon:typescript",
-        "level": "95",
-        "category": "frontend"
-      },
-      {
-        "name": "JavaScript",
-        "class": "devicon:javascript",
-        "level": "100",
-        "category": "frontend"
-      },
-      {
-        "name": "HTML5",
-        "class": "devicon:html5",
-        "level": "100",
-        "category": "frontend"
-      },
-      {
-        "name": "CSS Modules",
-        "class": "devicon:css3",
-        "level": "95",
-        "category": "frontend"
-      },
-      {
-        "name": "SCSS",
-        "class": "devicon:sass",
-        "level": "100",
-        "category": "frontend"
-      },
-      {
-        "name": "Tailwind CSS",
-        "class": "devicon:tailwindcss",
-        "level": "90",
-        "category": "frontend"
-      },
-      {
-        "name": "Angular 8+",
-        "class": "devicon:angularjs",
-        "level": "60",
-        "category": "frontend"
-      },
-      {
-        "name": "Flutter",
-        "class": "devicon:flutter",
-        "level": "80",
-        "category": "frontend"
-      },
-      {
-        "name": "Mantine UI",
-        "class": "logos:mantine-icon",
-        "level": "90",
-        "category": "frontend"
-      },
-      {
-        "name": "Bootstrap",
-        "class": "devicon:bootstrap",
-        "level": "80",
-        "category": "frontend"
-      },
-      {
-        "name": "Carbon Design System",
-        "class": "carbon:carbon",
-        "level": "85",
-        "category": "frontend"
-      },
-      {
-        "name": "Material UI",
-        "class": "devicon:materialui",
-        "level": "60",
-        "category": "frontend"
-      },
-      {
-        "name": "Shopify",
-        "class": "logos:shopify",
-        "level": "70",
-        "category": "frontend"
-      },
-      {
-        "name": "NodeJS",
-        "class": "devicon:nodejs",
-        "level": "100",
-        "category": "backend"
-      },
-      {
-        "name": "Bun",
-        "class": "devicon:bun",
-        "level": "80",
-        "category": "backend"
-      },
-      {
-        "name": "REST API",
-        "class": "material-symbols:api",
-        "level": "95",
-        "category": "backend"
-      },
-      {
-        "name": "MongoDB",
-        "class": "devicon:mongodb",
-        "level": "85",
-        "category": "backend"
-      },
-      {
-        "name": "Cosmos DB",
-        "class": "devicon:cosmosdb-wordmark",
-        "level": "85",
-        "category": "backend"
-      },
-      {
-        "name": "AWS",
-        "class": "devicon:amazonwebservices",
-        "level": "85",
-        "category": "backend"
-      },
-      {
-        "name": "Azure",
-        "class": "devicon:azure",
-        "level": "85",
-        "category": "backend"
-      },
-      {
-        "name": "Azure Functions",
-        "class": "mdi:function-variant",
-        "level": "85",
-        "category": "backend"
-      },
-      {
-        "name": "Docker",
-        "class": "devicon:docker",
-        "level": "95",
-        "category": "backend"
-      },
-      {
-        "name": "Apache",
-        "class": "devicon:apache",
-        "level": "75",
-        "category": "backend"
-      },
-      {
-        "name": "NGINX",
-        "class": "devicon:nginx",
-        "level": "85",
-        "category": "backend"
-      },
-      {
-        "name": "Jest",
-        "class": "logos:jest",
-        "level": "95",
-        "category": "testing"
-      },
-      {
-        "name": "Cypress",
-        "class": "devicon:cypressio",
-        "level": "90",
-        "category": "testing"
-      },
-      {
-        "name": "Enzyme",
-        "class": "logos:airbnb-icon",
-        "level": "85",
-        "category": "testing"
-      },
-      {
-        "name": "Selenium",
-        "class": "skill-icons:selenium",
-        "level": "90",
-        "category": "testing"
-      },
-      {
-        "name": "WebdriverIO",
-        "class": "logos:webdriverio",
-        "level": "85",
-        "category": "testing"
-      },
-      {
-        "name": "Cucumber / Gherkin",
-        "class": "logos:cucumber",
-        "level": "90",
-        "category": "testing"
-      },
-      {
-        "name": "BrowserStack",
-        "class": "devicon:browserstack",
-        "level": "70",
-        "category": "testing"
-      },
-      {
-        "name": "Appium",
-        "class": "logos:appium",
-        "level": "50",
-        "category": "testing"
-      },
-      {
-        "name": "Git",
-        "class": "devicon:git",
-        "level": "95",
-        "category": "tooling"
-      },
-      {
-        "name": "GitHub Actions",
-        "class": "devicon:githubactions",
-        "level": "80",
-        "category": "tooling"
-      },
-      {
-        "name": "CI/CD Pipelines",
-        "class": "vscode-icons:file-type-azurepipelines",
-        "level": "90",
-        "category": "tooling"
-      },
-      {
-        "name": "DevOps",
-        "class": "devicon:azuredevops",
-        "level": "85",
-        "category": "tooling"
-      },
-      {
-        "name": "Storybook",
-        "class": "devicon:storybook",
-        "level": "85",
-        "category": "tooling"
-      },
-      {
-        "name": "ViteJS",
-        "class": "devicon:vitejs",
-        "level": "70",
-        "category": "tooling"
-      },
-      {
-        "name": "Webpack",
-        "class": "devicon:webpack",
-        "level": "75",
-        "category": "tooling"
-      },
-      {
-        "name": "Babel",
-        "class": "devicon:babel",
-        "level": "70",
-        "category": "tooling"
-      },
-      {
-        "name": "Postman",
-        "class": "devicon:postman",
-        "level": "90",
-        "category": "tooling"
-      },
-      {
-        "name": "Bash",
-        "class": "devicon-plain:bash",
-        "level": "90",
-        "category": "tooling"
-      },
-      {
-        "name": "Linux",
-        "class": "devicon:linux",
-        "level": "90",
-        "category": "tooling"
-      },
-      {
-        "name": "Adobe Experience Manager",
-        "class": "arcticons:adobe-experience-manager",
-        "level": "85",
-        "category": "tooling"
-      },
-      {
-        "name": "Adobe Dynamic Tag Manager",
-        "class": "arcticons:adobe-analytics",
-        "level": "85",
-        "category": "tooling"
-      },
-      {
-        "name": "PowerBI",
-        "class": "logos:microsoft-power-bi",
-        "level": "35",
-        "category": "tooling"
-      },
-      {
-        "name": "JIRA",
-        "class": "devicon:jira",
-        "level": "90",
-        "category": "tooling"
-      },
-      {
-        "name": "Notion",
-        "class": "devicon:notion",
-        "level": "75",
-        "category": "tooling"
-      },
-      {
-        "name": "Cookie Control",
-        "class": "emojione:cookie",
-        "level": "90",
-        "category": "tooling"
-      },
-      {
-        "name": "Split Tunnel VPN",
-        "class": "vscode-icons:file-type-ovpn",
-        "level": "65",
-        "category": "tooling"
-      },
-      {
-        "name": "Claude",
-        "class": "logos:claude-icon",
-        "level": "95",
-        "category": "tooling"
-      }
+      { "name": "Gemini API", "class": "logos:google-icon", "level": "90", "category": "ai" },
+      { "name": "Python", "class": "devicon:python", "level": "85", "category": "ai" },
+      { "name": "Prompt Engineering", "class": "mdi:comment-text", "level": "95", "category": "ai" },
+      { "name": "Next.js", "class": "devicon:nextjs", "level": "80", "category": "dev" },
+      { "name": "React", "class": "devicon:react", "level": "80", "category": "dev" },
+      { "name": "Tailwind CSS", "class": "devicon:tailwindcss", "level": "85", "category": "dev" },
+      { "name": "Docker", "class": "devicon:docker", "level": "80", "category": "infra" },
+      { "name": "GitLab", "class": "devicon:gitlab", "level": "85", "category": "infra" },
+      { "name": "Git", "class": "devicon:git", "level": "90", "category": "infra" }
     ]
   },
   "contact": {
@@ -1441,31 +287,25 @@
     "tagline": "Let's work together on your next project",
     "contactInfo": {
       "title": "Get in touch.",
-      "description": "The fastest way is email. I reply within a working day.",
+      "description": "Feel free to reach out for collaborations or opportunities.",
       "items": [
         {
           "name": "Email",
           "class": "clarity:email-solid",
-          "value": "lewishadden@gmail.com",
-          "link": "mailto:lewishadden@gmail.com"
-        },
-        {
-          "name": "Phone",
-          "class": "clarity:phone-handset-solid",
-          "value": "+44 7714 512514",
-          "link": "tel:+447714512514"
+          "value": "lukelawzinchen@gmail.com",
+          "link": "mailto:lukelawzinchen@gmail.com"
         },
         {
           "name": "LinkedIn",
           "class": "mdi:linkedin",
-          "value": "in/lewishadden",
-          "link": "https://www.linkedin.com/in/lewishadden/"
+          "value": "in/lawzinchen",
+          "link": "https://www.linkedin.com/in/law-zin-chen-2200b1307/"
         },
         {
           "name": "GitHub",
           "class": "mdi:github",
-          "value": "lewishadden",
-          "link": "https://github.com/lewishadden"
+          "value": "TycoMaster",
+          "link": "https://github.com/TycoMaster"
         }
       ]
     },
@@ -1483,13 +323,13 @@
     "error": {
       "status": "danger",
       "headerText": "There was a problem sending the message",
-      "bodyText": "Please try again soon, or contact me directly via email or phone",
+      "bodyText": "Please try again.",
       "icon": "mdi:alert-circle"
     },
     "success": {
       "status": "success",
       "headerText": "Message sent!",
-      "bodyText": "I will be in touch with you shortly to answer your message.",
+      "bodyText": "I will be in touch shortly.",
       "icon": "mdi:check-circle"
     },
     "close": {
@@ -1498,30 +338,30 @@
     }
   },
   "footer": {
-    "name": "Lewis Hadden",
-    "tagline": "Senior Full Stack Engineer crafting modern web experiences.",
-    "description": "Senior Full Stack Engineer crafting modern web experiences. Available for freelance and permanent roles, UK and EU.",
+    "name": "Law Zin Chen",
+    "tagline": "Artificial Intelligence Major & Developer",
+    "description": "Showcasing projects in AI, development, and data storytelling.",
     "social": [
       {
         "name": "GitHub",
-        "url": "https://github.com/lewishadden",
+        "url": "https://github.com/TycoMaster",
         "class": "fa6-brands:github"
       },
       {
         "name": "LinkedIn",
-        "url": "https://www.linkedin.com/in/lewishadden/",
+        "url": "https://www.linkedin.com/in/law-zin-chen-2200b1307/",
         "class": "devicon:linkedin"
       }
     ],
     "home": {
-      "text": "Lewis Hadden",
+      "text": "Law Zin Chen",
       "url": "/",
       "ariaLabel": "Back to home"
     },
     "navigateText": "Navigate",
     "elsewhereText": "Elsewhere",
     "connectText": "Connect",
-    "version": "v3.0 · 2026",
+    "version": "2026",
     "madeInPrefix": "Made in",
     "copyright": "Designed & built with care.",
     "builtWith": {

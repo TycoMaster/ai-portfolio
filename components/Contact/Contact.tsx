@@ -164,7 +164,7 @@ export const Contact = ({ contact }: { contact: ContactProps }) => {
         <div className="contact__location-pin" aria-hidden="true">
           <Icon icon="mdi:map-marker" width={56} height={56} />
         </div>
-        <span className="contact__location-label">Peterborough, UK</span>
+        <span className="contact__location-label">MELAKA, MALAYSIA</span>
       </ScrollReveal>
 
       {showToast && (

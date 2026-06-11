@@ -99,7 +99,7 @@ export const Home = ({
 
         <div className="hero__visual" aria-hidden="true">
           <Image
-            src="/static/images/hero-3d-code-block.png"
+            src="/static/images/my-hero.png"
             alt=""
             width={819}
             height={561}

@@ -16,7 +16,7 @@ export const Footer = ({ footer, navItems }: { footer: FooterProps; navItems: Na
       <div className="footer__inner">
         <div className="footer__brand">
           <Link href={home.url} className="footer__logo" aria-label={home.ariaLabel}>
-            <Image src="/static/images/portfolio-brand-icon.png" alt="" width={32} height={32} />
+            <Image src="/static/images/my-hero.png" alt="" width={32} height={32} />
             <span>{home.text}</span>
           </Link>
           <p className="footer__tagline">{tagline}</p>
