@@ -52,8 +52,7 @@ export const Experience = ({ experience }: { experience: ExperienceProps }) => {
           {title}
         </h2>
         <p className="section__sub">
-          Almost a decade across IBM, Sopra Steria, ERGO Travel and ADP — frontend, full stack, and
-          cloud architecture.
+          Practical experience across technical retail and digital e-commerce — focusing on store operations, customer relations, and digital workflows.
         </p>
       </ScrollReveal>
 

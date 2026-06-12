@@ -216,28 +216,17 @@
     gap: 6px;
 
     span {
-      font-size: var(--fs-xs);
+      font-size: 10px;
       font-weight: 700;
       color: #fff;
       text-align: center;
-      line-height: 1.15;
-    }
-  }
-
-  &__dots {
-    display: flex;
-    gap: 3px;
-  }
-
-  &__dot {
-    width: 5px;
-    height: 5px;
-    border-radius: 50%;
-    background: rgba(255, 255, 255, 0.25);
-
-    &--filled {
-      background: #fff;
-      box-shadow: 0 0 4px rgba(255, 255, 255, 0.4);
+      line-height: 1.1;
+      white-space: normal;
+      width: 100%;
+      padding: 0;
+      letter-spacing: -0.3px;
+      word-break: normal;
+      overflow-wrap: normal;
     }
   }
 }

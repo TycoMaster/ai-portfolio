@@ -88,7 +88,7 @@
     "descriptionHeader": "",
     "description": "<p><strong>Hi, I’m Law Zin Chen</strong> — an Artificial Intelligence major pursuing my Bachelor of Computer Science at Universiti Teknikal Malaysia Melaka (UTeM).</p><p>My technical focus lies in the future of AI workflows. I actively prototype generative AI applications utilizing the Gemini API and explore advanced concepts like the Model Context Protocol. I recently completed the Gemini Nexus: The Agentverse bootcamp, further solidifying my hands-on experience with autonomous agents.</p><p>Beyond writing code, I have a deep interest in PC hardware troubleshooting and gaming setups. To balance my screen time, I enjoy community photography, recently participating in a visual trip to Pulau Ketam, and staying active with streetwear and sneaker culture.</p>",
     "image": {
-      "url": "/static/images/portrait.png",
+      "url": "/static/images/portrait1.png",
       "size": {
         "width": 300,
         "height": 470
@@ -100,7 +100,7 @@
     "cta": {
       "primary": {
         "text": "Download CV",
-        "url": "/static/documents/Law_Zin_Chen_Resume.pdf",
+        "url": "",
         "icon": "mdi:download",
         "ariaLabel": "Download CV as PDF"
       },
@@ -230,7 +230,7 @@
         "thumbnail": "mdi:monitor-dashboard",
         "images": [
           {
-            "url": "/static/images/projects/portfolio.png",
+            "url": "/static/images/projects/portfolio1.png",
             "size": { "width": 1280, "height": 720 }
           }
         ],

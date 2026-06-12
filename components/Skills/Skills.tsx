@@ -71,14 +71,6 @@ export const Skills = ({ skills }: { skills: SkillsProps }) => {
                         </div>
                         <div className="skill-tile__back" aria-hidden="true">
                           <span>{s.name}</span>
-                          <span className="skill-tile__dots">
-                            {Array.from({ length: 5 }, (_, d) => (
-                              <span
-                                key={d}
-                                className={`skill-tile__dot${d < dots ? ' skill-tile__dot--filled' : ''}`}
-                              />
-                            ))}
-                          </span>
                         </div>
                       </div>
                     </div>

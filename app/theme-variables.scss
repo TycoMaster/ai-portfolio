@@ -84,32 +84,32 @@
    Dark Theme (default) — "Ember" brand
    ============================================================= */
 [data-theme='dark'] {
-  --bg-primary: #160d09;
-  --bg-secondary: #241510;
-  --bg-tertiary: #38221a;
+  --bg-primary: #0b0914;
+  --bg-secondary: #151124;
+  --bg-tertiary: #201a36;
   --text-primary: #fff;
   --text-secondary: #b0b0b0;
   --text-muted: #808080;
   --border-color: rgba(255, 255, 255, 0.1);
   --shadow: rgba(0, 0, 0, 0.7);
-  --card-bg: #241510;
-  --card-hover-bg: rgba(249, 115, 22, 0.1);
-  --accent-primary: #f97316;
-  --accent-secondary: #be123c;
-  --bg-particle-color: hsl(28, 100%, 72%);
-  --orb-color-1: rgba(251, 191, 36, 0.22);
-  --orb-color-2: rgba(249, 115, 22, 0.18);
-  --orb-color-3: rgba(244, 63, 94, 0.16);
-  --dot-grid-color: rgba(255, 200, 150, 0.045);
-  --gradient-start: #fbbf24;
-  --gradient-mid: #fb923c;
-  --gradient-end: #f43f5e;
-  --gradient-shadow: rgba(251, 146, 60, 0.2);
+  --card-bg: #151124;
+  --card-hover-bg: rgba(139, 92, 246, 0.1);
+  --accent-primary: #8b5cf6;
+  --accent-secondary: #d946ef;
+  --bg-particle-color: hsl(260, 100%, 72%);
+  --orb-color-1: rgba(139, 92, 246, 0.22);
+  --orb-color-2: rgba(192, 132, 252, 0.18);
+  --orb-color-3: rgba(217, 70, 239, 0.16);
+  --dot-grid-color: rgba(167, 139, 250, 0.045);
+  --gradient-start: #6d28d9;
+  --gradient-mid: #8b5cf6;
+  --gradient-end: #d946ef;
+  --gradient-shadow: rgba(139, 92, 246, 0.2);
   --line-color: #fff;
   --line-color-inset-shadow: #00000014;
   --line-color-inset-shadow-outer: #0000000d;
-  --icon-bg: #303030;
-  --badge-bg-secondary: #3a1f12;
+  --icon-bg: #2a2040;
+  --badge-bg-secondary: #2a1f40;
   --bs-card-color: #f8f9fa;
 
   /* Signals — "Open to work" is the only non-brand status color */
@@ -122,9 +122,9 @@
    Light Theme
    ============================================================= */
 [data-theme='light'] {
-  --bg-primary: #fdfaf7;
-  --bg-secondary: #f9f2ea;
-  --bg-tertiary: #f0e5d8;
+  --bg-primary: #f8f7fb;
+  --bg-secondary: #f1eff7;
+  --bg-tertiary: #e6e2f0;
   --text-primary: #1c1410;
   --text-secondary: #5c4f45;
   --text-muted: #a3917f;
@@ -134,23 +134,23 @@
   --shadow-card: 0 8px 32px rgba(60, 40, 20, 0.06);
   --shadow-hover: 0 16px 48px rgba(60, 40, 20, 0.09);
   --card-bg: #fff;
-  --card-hover-bg: rgba(234, 88, 12, 0.04);
-  --accent-primary: #c2410c;
-  --accent-secondary: #be123c;
-  --bg-particle-color: hsl(28, 70%, 60%);
-  --orb-color-1: rgba(251, 191, 36, 0.1);
-  --orb-color-2: rgba(249, 115, 22, 0.08);
-  --orb-color-3: rgba(244, 63, 94, 0.06);
-  --dot-grid-color: rgba(234, 88, 12, 0.05);
-  --gradient-start: #f59e0b;
-  --gradient-mid: #f97316;
-  --gradient-end: #e11d48;
-  --gradient-shadow: rgba(234, 88, 12, 0.12);
-  --line-color: #57433a;
+  --card-hover-bg: rgba(124, 58, 237, 0.04);
+  --accent-primary: #7c3aed;
+  --accent-secondary: #db2777;
+  --bg-particle-color: hsl(260, 70%, 60%);
+  --orb-color-1: rgba(124, 58, 237, 0.1);
+  --orb-color-2: rgba(168, 85, 247, 0.08);
+  --orb-color-3: rgba(219, 39, 119, 0.06);
+  --dot-grid-color: rgba(124, 58, 237, 0.05);
+  --gradient-start: #5b21b6;
+  --gradient-mid: #7c3aed;
+  --gradient-end: #db2777;
+  --gradient-shadow: rgba(124, 58, 237, 0.12);
+  --line-color: #3b2b54;
   --line-color-inset-shadow: #ffffff1a;
   --line-color-inset-shadow-outer: #ffffff12;
-  --icon-bg: #fdf6ee;
-  --badge-bg-secondary: #a8826b;
+  --icon-bg: #f3effc;
+  --badge-bg-secondary: #c4b5fd;
   --bs-card-color: #1c1410;
 
   --status-ok: #16a34a;
