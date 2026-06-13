@@ -154,6 +154,26 @@
         ]
       },
       {
+        "company": "Xiaomi & SNS Network",
+        "title": "Promoter & Retail Specialist",
+        "years": "Jun 2024 - Aug 2024",
+        "description": "Managed daily store operations and optimized staff shift scheduling systems. Assisted customers by providing detailed technical hardware specifications and troubleshooting device issues.",
+        "mainTech": ["Store Management", "Shift Scheduling", "Customer Relations"],
+        "icon": "devicon:cellphone",
+        "technologies": ["Hardware Troubleshooting", "Retail Operations"]
+      },
+      {
+        "company": "Shopee Shop",
+        "title": "E-Commerce Seller Account Manager",
+        "years": "Past Role",
+        "description": "Managed an e-commerce seller account, overseeing digital product listings, and tracking consumer data to optimize sales.",
+        "mainTech": ["Digital Marketing", "E-Commerce", "Data Analytics"],
+        "icon": "devicon:shopping",
+        "technologies": [
+          "Digital Payments", "Storefront Management", "Consumer Trends"
+        ]
+      },
+      {
         "company": "SMJK Sam Tet",
         "title": "Sijil Tinggi Persekolahan Malaysia (STPM)",
         "years": "Jul 2022 - Apr 2024",
@@ -176,26 +196,6 @@
         "icon": "ph:books-duotone",
         "technologies": [
           "Secretary of Scouts (2020-2021)"
-        ]
-      },
-      {
-        "company": "Xiaomi & SNS Network",
-        "title": "Promoter & Retail Specialist",
-        "years": "Jun 2024 - Aug 2024",
-        "description": "Managed daily store operations and optimized staff shift scheduling systems. Assisted customers by providing detailed technical hardware specifications and troubleshooting device issues.",
-        "mainTech": ["Store Management", "Shift Scheduling", "Customer Relations"],
-        "icon": "devicon:cellphone",
-        "technologies": ["Hardware Troubleshooting", "Retail Operations"]
-      },
-      {
-        "company": "Shopee Shop",
-        "title": "E-Commerce Seller Account Manager",
-        "years": "Past Role",
-        "description": "Managed an e-commerce seller account, overseeing digital product listings, and tracking consumer data to optimize sales.",
-        "mainTech": ["Digital Marketing", "E-Commerce", "Data Analytics"],
-        "icon": "devicon:shopping",
-        "technologies": [
-          "Digital Payments", "Storefront Management", "Consumer Trends"
         ]
       }
     ]
