@@ -142,36 +142,39 @@
     },
     "items": [
       {
-        "role": "Bachelor of Computer Science (Artificial Intelligence) with Honours",
         "company": "Universiti Teknikal Malaysia Melaka (UTeM)",
-        "date": "Oct 2024 — Present",
-        "location": "Melaka, Malaysia",
+        "title": "Bachelor of Computer Science (Artificial Intelligence)",
+        "years": "Oct 2024 - Present",
         "description": "Currently pursuing an undergraduate degree under the Faculty of Artificial Intelligence and Cyber Security (FAIX). Developing practical expertise in autonomous AI workflows, machine learning concepts, and software engineering.",
-        "achievements": [
-          "Participant in the Gemini Nexus: The Agentverse AI Agent Bootcamp and Hackathon.",
-          "First Runner-Up in the National Data Storytelling Competition at the Melaka State Big Data Convention 2025 (Team: Laid-Back Camper)."
+        "mainTech": ["Artificial Intelligence", "Machine Learning", "Software Engineering"],
+        "icon": "ph:graduation-cap-duotone",
+        "technologies": [
+          "Participant: Gemini Nexus AI Hackathon", 
+          "1st Runner-Up: National Data Storytelling Competition 2025"
         ]
       },
       {
-        "role": "Sijil Tinggi Persekolahan Malaysia (STPM)",
         "company": "SMJK Sam Tet",
-        "date": "Jul 2022 — Apr 2024",
-        "location": "Ipoh, Perak",
+        "title": "Sijil Tinggi Persekolahan Malaysia (STPM)",
+        "years": "Jul 2022 - Apr 2024",
         "description": "Completed Form 6 (Pre-University) with an excellent conduct record. Demonstrated strong leadership and organizational skills through multiple high-level extracurricular roles.",
-        "achievements": [
-          "King Scout Award of Scout Association of Malaysia (PPM) (Cohort 2021).",
-          "Chairman of Rover Scouts (2022-2023) and Vice Chairman of Tenpin Bowling Club (2022-2023).",
-          "Auditor for the Board of Class Monitors and Class Monitor (2022-2023).",
-          "Assistant Secretary for the Textbook Loan Scheme (SPBT)."
+        "mainTech": ["Leadership", "Team Management", "Event Organization"],
+        "icon": "ph:student-duotone",
+        "technologies": [
+          "King Scout Award (Cohort 2021)", 
+          "Chairman of Rover Scouts", 
+          "Vice Chairman of Bowling Club", 
+          "Board of Class Monitors Auditor"
         ]
       },
       {
-        "role": "High School / Sijil Pelajaran Malaysia (SPM)",
         "company": "SMJK Sam Tet",
-        "date": "Graduated 2022",
-        "location": "Ipoh, Perak",
+        "title": "Sijil Pelajaran Malaysia (SPM)",
+        "years": "Graduated 2022",
         "description": "Completed secondary education and successfully passed the Sijil Pelajaran Malaysia (SPM) examinations.",
-        "achievements": [
+        "mainTech": ["Secondary Education", "Extracurricular Leadership"],
+        "icon": "ph:books-duotone",
+        "technologies": [
           "Secretary of Scouts (2020-2021)"
         ]
       },
