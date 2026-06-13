@@ -82,6 +82,22 @@ export const Experience = ({ experience }: { experience: ExperienceProps }) => {
                   <h3 className="xp__role">{item.title}</h3>
                   <p className="xp__co">{item.company}</p>
                   {item.description && <p className="xp__desc">{item.description}</p>}
+
+                  {/* Add the achievements (technologies) list here */}
+                  {item.technologies && item.technologies.length > 0 && (
+                  <ul style={{ 
+                  paddingLeft: '1.25rem', 
+                  listStyleType: 'disc', 
+                  marginBottom: '1.25rem', 
+                  color: 'var(--text-secondary)', 
+                  fontSize: '0.95rem',
+                  lineHeight: '1.5'
+                  }}>
+                  {item.technologies.map((tech, index) => (
+                  <li key={index} style={{ marginBottom: '0.35rem' }}>{tech}</li>
+                  ))}
+                  </ul>
+                  )}
                   <div className="xp__tech">
                     {item.mainTech.map((t) => (
                       <span className="chip" key={t}>
