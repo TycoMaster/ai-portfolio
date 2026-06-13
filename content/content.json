@@ -142,6 +142,40 @@
     },
     "items": [
       {
+        "role": "Bachelor of Computer Science (Artificial Intelligence) with Honours",
+        "company": "Universiti Teknikal Malaysia Melaka (UTeM)",
+        "date": "Oct 2024 — Present",
+        "location": "Melaka, Malaysia",
+        "description": "Currently pursuing an undergraduate degree under the Faculty of Artificial Intelligence and Cyber Security (FAIX). Developing practical expertise in autonomous AI workflows, machine learning concepts, and software engineering.",
+        "achievements": [
+          "Participant in the Gemini Nexus: The Agentverse AI Agent Bootcamp and Hackathon.",
+          "First Runner-Up in the National Data Storytelling Competition at the Melaka State Big Data Convention 2025 (Team: Laid-Back Camper)."
+        ]
+      },
+      {
+        "role": "Sijil Tinggi Persekolahan Malaysia (STPM)",
+        "company": "SMJK Sam Tet",
+        "date": "Jul 2022 — Apr 2024",
+        "location": "Ipoh, Perak",
+        "description": "Completed Form 6 (Pre-University) with an excellent conduct record. Demonstrated strong leadership and organizational skills through multiple high-level extracurricular roles.",
+        "achievements": [
+          "King Scout Award of Scout Association of Malaysia (PPM) (Cohort 2021).",
+          "Chairman of Rover Scouts (2022-2023) and Vice Chairman of Tenpin Bowling Club (2022-2023).",
+          "Auditor for the Board of Class Monitors and Class Monitor (2022-2023).",
+          "Assistant Secretary for the Textbook Loan Scheme (SPBT)."
+        ]
+      },
+      {
+        "role": "High School / Sijil Pelajaran Malaysia (SPM)",
+        "company": "SMJK Sam Tet",
+        "date": "Graduated 2022",
+        "location": "Ipoh, Perak",
+        "description": "Completed secondary education and successfully passed the Sijil Pelajaran Malaysia (SPM) examinations.",
+        "achievements": [
+          "Secretary of Scouts (2020-2021)"
+        ]
+      },
+      {
         "company": "Xiaomi & SNS Network",
         "title": "Promoter & Retail Specialist",
         "years": "Jun 2024 - Aug 2024",
